@@ -1,1 +1,1 @@
-# Concepts Addressed in Loops and Lists
+# Concepts Addressed in User Input and Error Handling
